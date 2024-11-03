@@ -19,7 +19,7 @@ This project implements a program to sort words in a given text based on the num
 1. Clone the repository:
    
     ```bash
-    git clone https://github.com/IK-24KudinaDiana/WordSorter.git
+    git clone https://github.com/IK-24KudinaDiana/WorkWithStrings.git
     ```
 
 2. Go to the project directory:
